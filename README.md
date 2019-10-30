@@ -1,6 +1,6 @@
-# room_booking
+# Screenshots (Result)
 
-A new Flutter project.
+<img src="assets/room_booking.gif" width="540" />
 
 ## Getting Started
 
