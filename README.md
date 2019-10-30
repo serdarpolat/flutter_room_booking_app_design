@@ -1,6 +1,6 @@
 # Screenshots (Result)
 
-<img src="assets/room_booking.gif" width="540" />
+<img src="assets/room_booking.gif" width="570" />
 
 ## Getting Started
 
