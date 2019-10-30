@@ -1,6 +1,6 @@
 # Screenshots (Result)
 
-
+<img src="assets/ezgif.gif" width="270" />
 
 ## Getting Started
 
